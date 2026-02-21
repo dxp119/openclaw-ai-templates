@@ -1,0 +1,17 @@
+{
+  "name": "feishu-ai-assistant",
+  "version": "1.0.0",
+  "description": "飞书 + Kimi 智能助手",
+  "author": "OpenClaw AI",
+  "openclaw": {
+    "version": ">=2026.2.19",
+    "models": [
+      "nvidia/moonshotai/kimi-k2.5"
+    ]
+  },
+  "scripts": {
+    "setup": "openclaw workflows setup",
+    "start": "openclaw gateway start",
+    "deploy": "openclaw workflows deploy"
+  }
+}
