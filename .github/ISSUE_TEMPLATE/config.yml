@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💼 雇佣我
+    url: https://github.com/dxp119/openclaw-ai-templates/issues/new?template=hire-me.md
+    about: 有 AI 自动化项目需求？提交雇佣申请
+  - name: ❓ 问题咨询
+    url: https://github.com/dxp119/openclaw-ai-templates/discussions
+    about: 使用问题或技术讨论请去 Discussions
+  - name: 💰 成为赞助者
+    url: https://github.com/sponsors/dxp119
+    about: 支持我的开源工作
